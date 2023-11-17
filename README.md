@@ -9,7 +9,7 @@ Internet es un elemento fundamental de nuestro día a día, porque, en la actual
 
 AERO es una empresa mendocina, dedicada a prestar servicios de internet y telefonía en distintas áreas de Mendoza, y actualmente otras provincias como San Juan. AERO no tiene cables, siempre llegam más lejos, a esos lugares que las grandes empresas han olvidado. También prentende "volar cada vez más rápido", mejoramndo día a día las prestaciones de servicio, y para invierte permanentemente en tecnología. Buscan fidelizar sus clientes sin tener que recurrir a contratos de permanencia difíciles de resindir, consideran que los clientes deben ser plenamente libres en sus elecciones.  
 
-Los servicios prestados por Aero ofrecen planes desde 6 Mbps hasta 50 Mbpsse y subdividen a sus clientes en dos categorías y ademas un modelo de franquicia :
+Los servicios prestados por Aero ofrecen planes desde 6 Mbps hasta 50 Mbps y se subdividen a sus clientes en dos categorías y ademas un modelo de franquicia :
 
 * Hogares 
 * Servicios corporativos: Estos últimos pensados para profesionales y empresas con múltiples necesidades de conectividad.Los servicios corporativos se caracterizan por asegurar un ancho de banda permanente, sin pérdida de rendimiento durante todo el día. Además, son servicios simétricos donde las velocidades máximas de subida y de bajada son iguales. Ante necesidades especiales, Aero dispone de anchos de banda ilimitados "DEDICADOS" con conexiones punto a punto.
