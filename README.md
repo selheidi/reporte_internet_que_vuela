@@ -117,3 +117,27 @@ Siguiendo con el análisis, el gráfico de línea proporciona una visión clara 
 En un cambio significativo, la tecnología "Fibra óptica" ha emergido como una opción en ascenso, mostrando un aumento perceptible a partir de 2018 y acentuándose en 2020. Este incremento llevó a la tecnología de Fibra óptica desde 140,000 conexiones en 2014 hasta alcanzar 3 millones en 2022. Por otro lado, la categoría "Inalámbrico" experimenta un crecimiento más moderado, alcanzando en 2022 un total de 573,000 conexiones a nivel nacional. Este análisis temporal proporciona una perspectiva detallada sobre la evolución dinámica de las preferencias de conexión en la sociedad argentina.
 
 ![tecnologias_evolucion_desde2014](tecnología_evolució_2014.png)
+
+
+### ¿El acceso a las tecnologías de internet fijo, es similiar en todas las localidades?
+
+
+Una realidad importante en la conectividad de Argentina, es que las tecnologías principales como Cablemodem, Fibra óptica y Banda ancha aún no alcanzan todas las localidades del país. De esta manera el acceso a Internet inalámbrico se destaca como la opción más extendida, abarcando una mayor cantidad de localidades y reflejando un carácter más federal en su alcance. Dada la baja densidad poblacional, la extensión territorial y las áreas mal conectadas, el Internet inalámbrico emerge como una solución ampliamente adoptada.
+
+Es interesante observar que, aunque Cablemodem lidera en términos de accesos a nivel nacional, estos estén concentrados en localidades más grandes. Por otro lado, la Fibra óptica, siendo una tecnología relativamente económica, se posiciona como una opción para conectar localidades de densidades intermedias y pequeñas, pero excluyendo hogares aislados.
+
+![tecnologias_acceso](tecnologia_acceso.png)
+
+
+## Velocidad
+
+Lo que se puede apreciar es una baja velocidad de bajada en las localidades que solo tienen accesos aéreos de Internet Fijo. 
+Se puede ver más detalles de este análisis en el archivo a_EDA de este repositorio. 
+
+## KPI
+
+Se realizaron tres KPI
+
+El primero para evaluar el cambio en el acceso a internet fijo por cada 100 hogares por provincia y por trimestres. 
+El segundo evalúa el cambio en la adopción de internet inalámbrico por provincia y trimestre.
+Y el tercero evalúa el cambio en la velocidad media de descarga por provincia y trimestre. 
