@@ -6,7 +6,7 @@ Internet es un elemento fundamental de nuestro día a día, porque, en la actual
 # Empresa
 ![Aero_internet](aero.jfif)
 
-AERO es una empresa mendocina, dedicada a prestar servicios de internet y telefonía en distintas áreas de Mendoza, y actualmente otras provincias como San Juan. AERO no tiene cables, siempre llegam más lejos, a esos lugares que las grandes empresas han olvidado. También prentende "volar cada vez más rápido", mejorando día a día las prestaciones de servicio, y para invierte permanentemente en tecnología. Buscan fidelizar sus clientes sin tener que recurrir a contratos de permanencia difíciles de resindir, consideran que los clientes deben ser plenamente libres en sus elecciones.  
+AERO es una empresa mendocina, dedicada a prestar servicios de internet y telefonía en distintas áreas de Mendoza, y actualmente otras provincias como San Juan. AERO no tiene cables, siempre llegam más lejos, a esos lugares que las grandes empresas han olvidado. También prentende "volar cada vez más rápido", mejorando día a día las prestaciones de servicio, y para ello invierte permanentemente en tecnología. Buscan fidelizar sus clientes sin tener que recurrir a contratos de permanencia difíciles de resindir, consideran que los clientes deben ser plenamente libres en sus elecciones.  
 
 Los servicios prestados por Aero ofrecen planes desde 6 Mbps hasta 50 Mbps y se subdividen a sus clientes en dos categorías y ademas un modelo de franquicia :
 
